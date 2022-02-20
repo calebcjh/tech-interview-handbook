@@ -77,6 +77,22 @@ Are there companies you would like to know more about? Email us at [contact{at}t
   - In rare cases, candidates may even be allowed to skip the phone interview round and advanced to onsite directly
   - For non-fresh grads, you only receive an offer if you are successfully matched with a team
 
+## Indeed
+
+- Recruiter phone screen
+- Technical phone interview (optional)
+- Onsite:
+  - 1 x Online Assessment on HackerRank (for L0 - L2)
+  - 1 x Resume discussion
+  - 1 or 2 x Algorithm on HackerRank
+  - 1 x Code Review on GitHub
+  - 1 or 2 x System Design (for L3+)
+  - 1 x Technical Presentation (for L4+)
+- Tips:
+  - You are interviewing for a specific role, so, the bar varies
+  - Hiring decision and leveling are separate discussions; leveling is determined by experience and leadership signals
+  - If you do well in the interviews but the position is already filled, other hiring managers can pick up your packet
+
 ## Lyft
 
 - Recruiter phone screen
